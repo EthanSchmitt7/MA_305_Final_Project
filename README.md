@@ -5,8 +5,7 @@
 # Main Code Files
 # - mainCode.py
 # - convolution.py
-# - SimonPlanetsTraining.csv
-# - SimonPlanetsTesting.csv (For network evaluation purposes)
+# - The data set is too large to upload to github, email ethanschmitt7@gmail.com for access if need be
 
 # Secondary Code Files
 # - dataSetCreation.py (To convert WAV files to spectrograph images and save them to a .csv)
